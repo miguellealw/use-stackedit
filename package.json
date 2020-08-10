@@ -1,8 +1,16 @@
 {
   "name": "use-stackedit",
-  "version": "1.0.0",
-  "description": "Stackedit hook for react",
+  "version": "1.0.6",
+  "description": "StackEdit hook for React that exposes the StackEdit events.",
   "author": "miguellealw",
+  "keywords": [
+    "react",
+    "react-hook",
+    "hook",
+    "stackedit-js",
+    "stackedit",
+    "markdown"
+  ],
   "license": "MIT",
   "repository": "miguellealw/use-stackedit",
   "main": "dist/index.js",
@@ -66,5 +74,8 @@
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-url": "^2.1.0"
+  },
+  "dependencies": {
+    "stackedit-js": "^1.0.7"
   }
 }

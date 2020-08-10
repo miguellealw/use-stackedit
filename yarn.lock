@@ -10050,6 +10050,11 @@ stack-utils@^1.0.1:
   resolved "https://registry.yarnpkg.com/stack-utils/-/stack-utils-1.0.2.tgz#33eba3897788558bebfc2db059dc158ec36cebb8"
   integrity sha512-MTX+MeG5U994cazkjd/9KNAapsHnibjMLnfXodlkXw76JEea0UiNzrqidzo1emMwk7w5Qhc9jd4Bn9TBb1MFwA==
 
+stackedit-js@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/stackedit-js/-/stackedit-js-1.0.7.tgz#2ee22dd3aa78140fbb81926f01a4308e8e967bf0"
+  integrity sha512-FG2MNncXlSEscwBa3Ih6Xl1zrbeJ8/vgbrbzwwLvkdgFIMCRZQzpFpqxSW2o/1AvxguhXrt2dml/Z/I1m5eoLg==
+
 static-extend@^0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/static-extend/-/static-extend-0.1.2.tgz#60809c39cbff55337226fd5e0b520f341f1fb5c6"
